@@ -12,23 +12,23 @@ Welcome to the Gratitude Journal App! This app is designed to help you capture y
 
 ## Screenshots
 
-### Home Page
-<img src="https://github.com/wagle04/gratitude_diary/blob/main/screenshots/home%20page.png" width=50% height=50%>
-
-### Log Out and Backup
-<img src="https://github.com/wagle04/gratitude_diary/blob/main/screenshots/log%20out%20and%20backup.png" width=50% height=50%>
-
 ### Login Page
-<img src="https://github.com/wagle04/gratitude_diary/blob/main/screenshots/login%20page.png" width=50% height=50%>
-
-### Previous Gratitude Viewer
-<img src="https://github.com/wagle04/gratitude_diary/blob/main/screenshots/previous%20gratitude%20viewer.png" width=50% height=50%>
+<img src="https://github.com/wagle04/gratitude_diary/blob/main/screenshots/login%20page.png" width=33% height=33%>
 
 ### Restore Previous Backup
-<img src="https://github.com/wagle04/gratitude_diary/blob/main/screenshots/restore%20previous%20backup.png" width=50% height=50%>
+<img src="https://github.com/wagle04/gratitude_diary/blob/main/screenshots/restore%20previous%20backup.png" width=33% height=33%>
+
+### Home Page
+<img src="https://github.com/wagle04/gratitude_diary/blob/main/screenshots/home%20page.png" width=33% height=33%>
+
+### Previous Gratitude Viewer
+<img src="https://github.com/wagle04/gratitude_diary/blob/main/screenshots/previous%20gratitude%20viewer.png" width=33% height=33%>
 
 ### Share Gratitude
-<img src="https://github.com/wagle04/gratitude_diary/blob/main/screenshots/share%20gratitude.png" width=50% height=50%>
+<img src="https://github.com/wagle04/gratitude_diary/blob/main/screenshots/share%20gratitude.png" width=33% height=33%>
+
+### Log Out and Backup
+<img src="https://github.com/wagle04/gratitude_diary/blob/main/screenshots/log%20out%20and%20backup.png" width=33% height=33%>
 
 ## Packages Used and Their Use Cases
 
