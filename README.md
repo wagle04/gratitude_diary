@@ -13,22 +13,22 @@ Welcome to the Gratitude Journal App! This app is designed to help you capture y
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/home page.png)
 
 ### Log Out and Backup
-![Log Out and Backup](screenshots/log_out_and_backup.png)
+![Log Out and Backup](screenshots/log out and backup.png)
 
 ### Login Page
-![Login Page](screenshots/login_page.png)
+![Login Page](screenshots/login page.png)
 
 ### Previous Gratitude Viewer
-![Previous Gratitude Viewer](screenshots/previous_gratitude_viewer.png)
+![Previous Gratitude Viewer](screenshots/previous gratitude viewer.png)
 
 ### Restore Previous Backup
-![Restore Previous Backup](screenshots/restore_previous_backup.png)
+![Restore Previous Backup](screenshots/restore previous backup.png)
 
 ### Share Gratitude
-![Share Gratitude](screenshots/share_gratitude.png)
+![Share Gratitude](screenshots/share gratitude.png)
 
 ## Packages Used and Their Use Cases
 
