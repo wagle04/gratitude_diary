@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "853604883721",
+    "project_id": "gratitude-diary-58e2e",
+    "storage_bucket": "gratitude-diary-58e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853604883721:android:576db09173ae8d859787d8",
+        "android_client_info": {
+          "package_name": "com.example.gratitude_diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853604883721-t92tlvjsk497mcv4nfmb59688utdg3lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlWg0sKrnmVXnsLbCrnO8_ljf2PBn1fJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853604883721-t92tlvjsk497mcv4nfmb59688utdg3lv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "853604883721-808i15k3iqbmq2of6o45urkeerlv2ail.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gratitudeDiary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
