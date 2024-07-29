@@ -13,22 +13,22 @@ Welcome to the Gratitude Journal App! This app is designed to help you capture y
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home page.png)
+![Home Page](https://github.com/wagle04/gratitude_diary/blob/main/screenshots/home%20page.png)
 
 ### Log Out and Backup
-![Log Out and Backup](screenshots/log out and backup.png)
+![Log Out and Backup](https://github.com/wagle04/gratitude_diary/blob/main/screenshots/log%20out%20and%20backup.png)
 
 ### Login Page
-![Login Page](screenshots/login page.png)
+![Login Page](https://github.com/wagle04/gratitude_diary/blob/main/screenshots/login%20page.png)
 
 ### Previous Gratitude Viewer
-![Previous Gratitude Viewer](screenshots/previous gratitude viewer.png)
+![Previous Gratitude Viewer](https://github.com/wagle04/gratitude_diary/blob/main/screenshots/previous%20gratitude%20viewer.png)
 
 ### Restore Previous Backup
-![Restore Previous Backup](screenshots/restore previous backup.png)
+![Restore Previous Backup](https://github.com/wagle04/gratitude_diary/blob/main/screenshots/restore%20previous%20backup.png)
 
 ### Share Gratitude
-![Share Gratitude](screenshots/share gratitude.png)
+![Share Gratitude](https://github.com/wagle04/gratitude_diary/blob/main/screenshots/share%20gratitude.png)
 
 ## Packages Used and Their Use Cases
 
